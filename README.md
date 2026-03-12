@@ -66,7 +66,7 @@ I build fast, intuitive, and visually polished web applications end‑to‑end, 
   - Local-friendly workflow: Can run the webhook receiver locally on port 4000, then expose it securely via a tunnel (e.g., Cloudflare Tunnel or similar) for GitHub to reach during development.
 - **Links**: [Code](https://github.com/dile-pixel/real-time-metric-dashboard.git)
 
-### [Project Name 3]
+### [Project 3] - Creative Collaboration Platform
 - **Stack**: 
   - Language / Runtime: TypeScript, running on Node.js (Next.js toolchain)
   - Frontend framework: Next.js 16 (React 19, app-based routing) for server-side rendering and client-side navigation
