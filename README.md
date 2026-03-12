@@ -84,7 +84,7 @@ I build fast, intuitive, and visually polished web applications end‑to‑end, 
   - Briefs & projects UI: Interfaces to browse and apply to industry briefs (title, budget, genre, requirements) and manage resulting projects (file sharing, comments, roles, revenue split, collaborator management).
   - Marketplace & earnings views: Frontend pages for listing and browsing digital assets (beats, lyrics, samples, visuals), showing price/license details, and tracking earnings, licenses, and payout thresholds.
   - Sessions & settings: Real‑time session–oriented UI (session info, participants, chat, file share, reactions) and comprehensive settings screens (profile, account, payments, subscription, storage, notifications, security).
-- **Links**: [Live Demo](https://...) · [Code](https://github.com/...)
+- **Links**: [Code](https://github.com/dile-pixel/Creative-Collaboration-Platform.git)
 
 ---
 
