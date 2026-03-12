@@ -67,9 +67,23 @@ I build fast, intuitive, and visually polished web applications end‑to‑end, 
 - **Links**: [Code](https://github.com/dile-pixel/real-time-metric-dashboard.git)
 
 ### [Project Name 3]
-- **Stack**: [...]
+- **Stack**: 
+  - Language / Runtime: TypeScript, running on Node.js (Next.js toolchain)
+  - Frontend framework: Next.js 16 (React 19, app-based routing) for server-side rendering and client-side navigation
+  - UI / styling: Tailwind CSS 4 for utility-first styling, plus custom components
+  - Animation / icons: Framer Motion for page/element animations, Lucide React for iconography
+  - Tooling / quality: ESLint 9 with eslint-config-next for linting, TypeScript 5 for type safety
+  - Package / scripts: npm scripts (npm run dev, npm run build, npm start, npm run lint) for local dev and production builds
+  - Deployment: Designed to run as a standard Next.js app (e.g., Vercel or Node.js host)
+
 - **Highlights**:
-  - [1–2 bullet points focused on measurable impact, UX, or engineering quality.]
+  - End‑to‑end creator experience: Screens for onboarding, profile setup (bio, genres, skills, portfolio, social links), and managing creative works, tailored to music and creative professionals.
+  - Interactive dashboard: Post‑login dashboard UI for profile views, collaboration stats, active briefs, uploaded works, suggestions, trending creators, and project progress indicators.
+  - Creator discovery & social layer: “Discover creators” views with rich creator cards (roles, genres, location, subscription tier, match %, etc.) plus tabs for discover/connected/requested, and a social feed for posts (lyrics, audio, video, photos) with reactions, comments, bookmarks, and reporting.
+  - Content publishing flows: Separate UI flows for different post types (lyrics, audio, video, photo) with genre selection and options like allowing downloads, comments, and collaboration availability.
+  - Briefs & projects UI: Interfaces to browse and apply to industry briefs (title, budget, genre, requirements) and manage resulting projects (file sharing, comments, roles, revenue split, collaborator management).
+  - Marketplace & earnings views: Frontend pages for listing and browsing digital assets (beats, lyrics, samples, visuals), showing price/license details, and tracking earnings, licenses, and payout thresholds.
+  - Sessions & settings: Real‑time session–oriented UI (session info, participants, chat, file share, reactions) and comprehensive settings screens (profile, account, payments, subscription, storage, notifications, security).
 - **Links**: [Live Demo](https://...) · [Code](https://github.com/...)
 
 ---
