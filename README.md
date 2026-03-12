@@ -9,16 +9,16 @@ I build fast, intuitive, and visually polished web applications end‑to‑end, 
 ## 💼 What I Do
 
 - **Modern Frontend Development**
-  - React / Next.js / [Vue/Angular/etc. if relevant]
+  - React / Next.js / Vue / Angular
   - TypeScript, JavaScript (ES6+)
-  - State management: [Redux, Zustand, Recoil, RTK Query, etc.]
+  - State management: Redux, Zustand, Recoil, RTK Query, etc
   - Styling: Tailwind CSS, CSS Modules, Styled Components, SASS
 
 - **Backend & APIs**
-  - Node.js, Express / NestJS / [your stack]
+  - Node.js, Express / NestJS 
   - RESTful APIs, authentication, authorization
-  - Databases: [PostgreSQL, MySQL, MongoDB, etc.]
-  - ORMs: [Prisma, TypeORM, Sequelize, etc.]
+  - Databases: PostgreSQL, MySQL, MongoDB, etc
+  - ORMs: Prisma, TypeORM, Sequelize, etc
 
 - **Architecture & Quality**
   - Component‑driven development, design systems
@@ -28,21 +28,27 @@ I build fast, intuitive, and visually polished web applications end‑to‑end, 
 
 - **DevOps & Tooling**
   - Git + GitHub Flow
-  - CI/CD: GitHub Actions / [other]
-  - Docker, basic cloud: [AWS / GCP / Azure]
+  - CI/CD: GitHub Actions
+  - Docker, basic cloud: AWS / GCP / Azure
   - Linters & formatters: ESLint, Prettier, Husky
 
 ---
 
 ## 🧩 Selected Projects
 
-### [Project Name 1] – [Short tagline, e.g. “Collaborative task management web app”]
-- **Stack**: [React, Next.js, TypeScript, Node.js, PostgreSQL, etc.]
+### [Project 1] – “Collaborative Task Management App”
+- **Stack**: 
+  - Frontend framework: React (with React DOM)
+  - Build tool: Vite
+  - Routing: react-router-dom
+  - UI/helpers: @headlessui/react, @heroicons/react, react-modal
+  - Styling: Tailwind CSS + PostCSS + Autoprefixer
+  - Tooling: ESLint, @vitejs/plugin-react
 - **Highlights**:
-  - Implemented [feature] that [impact: e.g. improved load time by 40% / increased retention].
-  - Designed a reusable UI component library and theming system used across the app.
-  - Integrated secure authentication/authorization with [JWT/Auth0/NextAuth/etc.].
-- **Links**: [Live Demo](https://...) · [Code](https://github.com/...)
+  - User & team flows: Sign in / sign up, basic profile, create or join a team.
+  - Task management: Create tasks with details (title, description, due date, priority), assign them to team members, mark them in different states.
+  - Collaboration views: Each team sees and manages only its own tasks; dashboard-style pages for tasks, team, profile, etc.
+- **Links**: [Code](https://github.com/...)
 
 ### [Project Name 2] – [e.g. “Analytics dashboard for real‑time metrics”]
 - **Stack**: [...]
@@ -61,10 +67,10 @@ I build fast, intuitive, and visually polished web applications end‑to‑end, 
 
 ## 💻 Technical Skills
 
-- **Languages**: TypeScript, JavaScript, HTML5, CSS3, [Python/Go/etc. if relevant]
-- **Frontend**: React, Next.js, [Vue/Angular], Redux / Zustand / [state lib], Tailwind CSS, SASS
-- **Backend**: Node.js, Express / NestJS, REST APIs, [GraphQL if relevant]
-- **Databases**: [PostgreSQL, MySQL, MongoDB, Redis, etc.]
+- **Languages**: TypeScript, JavaScript, HTML5, CSS3, Python, Go, Lua
+- **Frontend**: React, Next.js, Vue, Angular, Redux / Zustand / state lib, Tailwind CSS, SASS
+- **Backend**: Node.js, Express / NestJS, REST APIs, GraphQL
+- **Databases**: PostgreSQL, MySQL, MongoDB, Redis, etc
 - **Testing**: Jest, React Testing Library, Cypress / Playwright
 - **DevOps & Tools**: Git, GitHub, GitHub Actions, Docker, npm/yarn, Webpack/Vite, ESLint, Prettier
 - **Other**: UX collaboration, Figma/Design handoff, Agile/Scrum
@@ -85,15 +91,15 @@ I build fast, intuitive, and visually polished web applications end‑to‑end, 
 
 - Deepening expertise in **advanced React/Next.js patterns** and **frontend architecture**
 - Improving **web performance**, **accessibility**, and **design systems** at scale
-- Exploring **[e.g. server components, microfrontends, WebAssembly, etc.]**
+- Exploring **server components, microfrontends, WebAssembly, etc**
 
 ---
 
 ## 🤝 Let’s Connect
 
-- **GitHub**: [github.com/your‑username](https://github.com/your-username)
-- **LinkedIn**: [Your Name](https://www.linkedin.com/in/your-link/)
+- **GitHub**: [github.com/dile-pixel](https://github.com/dile-pixel)
+- **LinkedIn**: [Di Le](https://www.linkedin.com/in/di-le-b69206291/)
 - **Portfolio**: [your‑portfolio.com](https://your-portfolio.com)
-- **Email**: [you@example.com]
+- **Email**: [watermail731@gmail.com]
 
 ---
