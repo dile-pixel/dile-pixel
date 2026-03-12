@@ -90,7 +90,7 @@ Lviv Polytechnic National University
 
 ## 🤝 Let’s Connect
 
-- 📧 Email: moonsunlight1124@gmail.com 
+- 📧 Email: watermail731@gmail.com 
 
 ---
 
