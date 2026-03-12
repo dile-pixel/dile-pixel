@@ -50,7 +50,7 @@ I build fast, intuitive, and visually polished web applications end‑to‑end, 
   - Collaboration views: Each team sees and manages only its own tasks; dashboard-style pages for tasks, team, profile, etc.
 - **Links**: [Code](https://github.com/dile-pixel/collaborative_app)
 
-### [Project 2] – Analytics dashboard for real‑time metrics”
+### [Project 2] – “Analytics dashboard for real‑time metrics”
 - **Stack**:
   - Language / Runtime: Node.js (CommonJS)
   - Backend framework: Express (with body-parser)
@@ -66,7 +66,7 @@ I build fast, intuitive, and visually polished web applications end‑to‑end, 
   - Local-friendly workflow: Can run the webhook receiver locally on port 4000, then expose it securely via a tunnel for GitHub to reach during development.
 - **Links**: [Code](https://github.com/dile-pixel/real-time-metric-dashboard.git)
 
-### [Project 3] - Creative Collaboration Platform
+### [Project 3] - “Creative Collaboration Platform”
 - **Stack**: 
   - Language / Runtime: TypeScript, running on Node.js (Next.js toolchain)
   - Frontend framework: Next.js 16 (React 19, app-based routing) for server-side rendering and client-side navigation
